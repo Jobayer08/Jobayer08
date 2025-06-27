@@ -80,7 +80,7 @@
 
 ## 🚀 Featured Projects:
 
-- 🤖 [Alcohol Detector Robot](https://github.com/Jobayer08/Alcohol-Detector-Robot) – An IoT-based robot detecting alcohol levels.
+- 🤖 [Alcohol Detector Robot](https://github.com/Jobayer08/Alcohol-Detector) – An IoT-based robot detecting alcohol levels.
 -    [Alumni Network Pstu](https://alumninetworkpstu.free.nf) - A web-based platform.
 -    [Order Processing and Management System] 
 
