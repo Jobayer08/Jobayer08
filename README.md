@@ -71,10 +71,6 @@
   <img src="https://streak-stats.demolab.com?user=Jobayer08&theme=dark&date_format=j%20M%5B%20Y%5D">
 </p>
 
-## 🌈 Animated Fun:
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
 
 ---
 
@@ -87,12 +83,7 @@
 
 ---
 
-## 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-</p>
 
----
 
 <h2 align="center">✨ Thank You for Visiting! ✨</h2>
 <p align="center">
